@@ -1,0 +1,5 @@
+google-api-python-client
+vaderSentiment
+matplotlib
+python-dotenv
+emoji
